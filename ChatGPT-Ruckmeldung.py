@@ -3,6 +3,7 @@ import openai
 import tkinter as tk
 from tkinter import ttk
 
+string = "test"
 api_key = "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"
 bedingungen = "Vorgabe: 250 Zeichen, auf Deutsch kurz und prägnant."
 
